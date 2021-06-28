@@ -2,6 +2,8 @@
 
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo.
 
+![project image](https://github.com/onurinan/kodluyoruzilkrepo/blob/main/images/repo.PNG)
+
 ## Installation
 
 ---
